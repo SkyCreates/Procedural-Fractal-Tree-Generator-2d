@@ -2,6 +2,8 @@
 
 This is a fractal tree generator built using Python and Tkinter. It allows you to create recursive fractal trees with various customizable parameters. You can also export the trees as PNG images and save/load the parameters as JSON files.
 
+https://github.com/user-attachments/assets/4e20fea6-c2ba-446c-a82d-182fe44f1242
+
 ## Features
 - Adjustable recursion depth, branch angles, and lengths.
 - Randomness for more natural-looking trees.
@@ -23,11 +25,12 @@ Run the script using Python:
 
 python fractal_tree_generator.py
 
-
 A GUI will appear where you can adjust the tree parameters and see the results in real time.
 
 ## Export
+
 You can export your tree by clicking the "Export as PNG" button, which saves the current fractal tree as an image file.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
